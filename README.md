@@ -2,3 +2,4 @@
 c# questions
 
 How to study?
+How to learn C ?
